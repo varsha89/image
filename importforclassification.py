@@ -1,4 +1,3 @@
-__author__ = 'Serge'
 
 from Smatrix import *
 
